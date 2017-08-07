@@ -18,3 +18,7 @@ var express 			= require("express"),
 
 	});
 
+// listen for incoming requests
+	app.listen(process.env.port || 4000, () => {
+		console.log("server started...");
+	});
