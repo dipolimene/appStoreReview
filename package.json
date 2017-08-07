@@ -1,0 +1,14 @@
+{
+  "name": "appreview",
+  "version": "1.0.0",
+  "description": "downloads reviews made on an app in the app store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dipolimene",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
