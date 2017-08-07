@@ -12,3 +12,4 @@ appStoreReviews.on('nextPage', function(nextPage) {
 
 appStoreReviews.getReviews('302920553', 'us', 1);
 
+module.exports = appStoreReviews;
